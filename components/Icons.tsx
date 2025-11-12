@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 export const InfoIcon = ({ className = "h-5 w-5" }: { className?: string }) => (

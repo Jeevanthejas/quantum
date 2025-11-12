@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { GithubIcon } from './components/Icons';
 import Simulator from './components/Simulator';
